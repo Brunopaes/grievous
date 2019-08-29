@@ -1,8 +1,9 @@
-## automatic-octo-template
+## Grievous
 
 Optimized for python 3.6
 
-This is a project template. Used in other repositories.
+Project aimed in spam a text on whatsapp web. Better used with 
+[Kenobi](https://github.com/caiorulli/kenobi).
 
 ----------------------
 
@@ -19,8 +20,9 @@ in your ___venv___ or ___anaconda env___, just run the following command:
 
 ```bash 
 .
-└── automatic-octo-template
+└── grievious
     ├── data
+    │   ├── chromedriver
     │   └── settings.json
     ├── docs
     │   ├── reference_articles
@@ -28,10 +30,11 @@ in your ___venv___ or ___anaconda env___, just run the following command:
     │   └── CREDITS
     ├── src
     │   ├── __init__.py
-    │   └── bot.py
+    │   └── general_kenobi.py
     ├── tests
     │   └── unittests
     │       ├── data
+    │       ├── test_general_kenobi.py
     │       └── __init__.py
     ├── .gitignore
     ├── LICENSE
@@ -54,31 +57,16 @@ in your ___venv___ or ___anaconda env___, just run the following command:
 
 For running it, on the `~/src` directory just run the follow command:
 
-`python automatic_octo.py` 
+`python general_kenobi.py` 
 
 #### Notes
 
-- Just a few notes
+Better used with [Kenobi](https://github.com/caiorulli/kenobi).
 
 ---------------
 
 ### Versioning
 
-This project is under development.
-
-#### Roadmap
-
-__It needed to:__
-
-- Develop the feature #0
-    - feature #0.1:
-        - Techniques:
-            - technique #0
-            - technique #1
-            - technique #2
-    - feature #0.2:
-        - technology #0
-
-- Develop the feature #1
+This project is complete.
 
 --------------
