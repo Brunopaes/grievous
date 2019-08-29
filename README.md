@@ -61,12 +61,10 @@ For running it, on the `~/src` directory just run the follow command:
 
 #### Notes
 
-Better used with [Kenobi](https://github.com/caiorulli/kenobi).
+````
+- Hello there
+- General Kenobi
+        Star Wars Episode III: The revenge of the Sith
+````
 
 ---------------
-
-### Versioning
-
-This project is complete.
-
---------------
