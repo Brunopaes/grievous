@@ -3,6 +3,7 @@ from selenium import webdriver
 
 import time
 
+
 class GeneralKenobi:
     def __init__(self):
         self.path = r'/Users/brunopaes/Desktop/grievous/data/chromedriver'
